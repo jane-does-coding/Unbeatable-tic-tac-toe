@@ -1,5 +1,6 @@
 # Unbeatable Tic Tac Toe Game
-<img width="960" alt="tic-tac-toe" src="https://github.com/YevheniiaSimaka/Tic-Tac-Toe/assets/112284703/d385eb94-9466-49a3-8abd-93d629d1e1ee">
+![Tic-Tac-Toe](https://github.com/YevheniiaSimaka/Unbeatable-tic-tac-toe/assets/112284703/8de51f59-c221-4571-a957-a378443afb38)
+
 
 ## Live Demo
 [Unbeatable Tic Tac Toe!](https://yevheniiasimaka.github.io/Tic-Tac-Toe/)
